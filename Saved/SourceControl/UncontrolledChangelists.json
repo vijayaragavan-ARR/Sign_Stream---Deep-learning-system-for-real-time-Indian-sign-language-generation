@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Marketplace/RuntimeSpeechRecognizer/Content/LanguageModels/LanguageModel.uasset",
+				"D:/Ragav/Documents/Unreal Projects/SignStream/Content/UI.uasset",
+				"D:/Ragav/Documents/Unreal Projects/SignStream/Content/New.umap",
+				"D:/Ragav/Documents/Unreal Projects/SignStream/Content/SignStream_UI-Map.umap",
+				"D:/Ragav/Documents/Unreal Projects/SignStream/Content/UI/UI.uasset",
+				"D:/Ragav/Documents/Unreal Projects/SignStream/Content/Animations/ABP_Amelia.uasset",
+				"D:/Ragav/Documents/Unreal Projects/SignStream/Content/BP/NewMacroLibrary.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
+				"D:/Ragav/Documents/Unreal Projects/SignStream/Content/MetaHumans/Amelia/BP_Amelia.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureMacros.uasset",
+				"D:/Ragav/Documents/Unreal Projects/SignStream/Content/_GENERATED/shakt/Box_176CB5C0.uasset",
+				"D:/Ragav/Documents/Unreal Projects/SignStream/SignStream/Content/UI/UI.uasset",
+				"D:/Ragav/Documents/Unreal Projects/SignStream/SignStream/Content/SignStream_UI-Map.umap",
+				"C:/Users/MK/Documents/Unreal Projects/SignStream/Content/UI/UI.uasset",
+				"C:/Users/MK/Documents/Unreal Projects/SignStream/Content/UI.uasset",
+				"C:/Users/MK/Documents/Unreal Projects/SignStream/Content/SignStream_UI-Map.umap",
+				"C:/Users/MK/Documents/Unreal Projects/SignStream/Content/Animations/ABP_Amelia.uasset",
+				"C:/Users/MK/Documents/Unreal Projects/SignStream/Content/MetaHumans/Amelia/BP_Amelia.uasset",
+				"C:/Users/MK/Documents/Unreal Projects/SignStream/Content/BP/AIGMB.uasset",
+				"C:/Users/MK/Documents/Unreal Projects/SignStream/Content/BP/AIPC.uasset",
+				"C:/Users/MK/Documents/Unreal Projects/SignStream/Content/MetaHumans/Amelia/FemaleHair/Hair/Hair_S_BobLayered.uasset",
+				"C:/Users/MK/Documents/Unreal Projects/SignStream/Content/MetaHuman_ControlRig_Take1.uasset",
+				"C:/Users/MK/Documents/Unreal Projects/SignStream/Content/MetaHumans/Common/Female/Medium/NormalWeight/Body/ABP_Amelia.uasset"
+			]
+		}
+	]
+}

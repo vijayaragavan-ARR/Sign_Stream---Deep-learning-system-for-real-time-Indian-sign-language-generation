@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\MK\\Documents\\Unreal Projects\\SignStream\\Intermediate\\Source\\SignStream.Build.cs",
+		"C:\\Users\\MK\\Documents\\Unreal Projects\\SignStream\\Intermediate\\Source\\SignStream.Target.cs",
+		"C:\\Users\\MK\\Documents\\Unreal Projects\\SignStream\\Intermediate\\Source\\SignStreamClient.Target.cs",
+		"C:\\Users\\MK\\Documents\\Unreal Projects\\SignStream\\Intermediate\\Source\\SignStreamEditor.Target.cs",
+		"C:\\Users\\MK\\Documents\\Unreal Projects\\SignStream\\Intermediate\\Source\\SignStreamServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
